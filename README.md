@@ -11,3 +11,5 @@ Add intro
 ## Deployment
 
 ## How To Contribute
+
+Copyright note
